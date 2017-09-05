@@ -1,5 +1,5 @@
 {
-  "name": "toolkit",
+  "name": "etherpush",
   "version": "0.1.0",
   "description": "etherpush.io toolkit to help people play ethereum :)",
   "main": "index.js",
