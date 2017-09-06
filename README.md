@@ -19,9 +19,9 @@
 
 ---
 
-* [toolkit](toolkit)
-* [install](install)
-* [commands](commands)
+* [toolkit](#toolkit)
+* [install](#install)
+* [commands](#commands)
     * [fetchmeta](#fetchmeta)
     * [readme](#readme)
 
