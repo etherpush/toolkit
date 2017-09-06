@@ -1,6 +1,6 @@
 {
   "name": "etherpush",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "etherpush.io toolkit to help people play ethereum :)",
   "main": "index.js",
   "scripts": {
