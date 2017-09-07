@@ -82,6 +82,6 @@ Output the template of etheprush.io's README document as the following:
 The status of https://etherpush.io
 
 ```
-❯ etherpush status                                                 48s 336ms
+❯ etherpush status
 https://etherpush.io is online
 ```
