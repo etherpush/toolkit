@@ -24,6 +24,7 @@
 * [commands](#commands)
     * [fetchmeta](#fetchmeta)
     * [readme](#readme)
+    * [status](#status)
 
 # toolkit
 [etherpush.io](https://etherpush.io) toolkit to help people play ethereum :)
@@ -74,4 +75,13 @@ Output the template of etheprush.io's README document as the following:
 > Twitter [@etherpush](https://twitter.com/etherpush)
 
 ---
+```
+
+## status
+
+The status of https://etherpush.io
+
+```
+❯ etherpush status                                                 48s 336ms
+https://etherpush.io is online
 ```
